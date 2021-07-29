@@ -1,0 +1,40 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Data Science Strategic Support Associate
+# your company information
+company:
+  name: Jackson
+  url: "https://www.jackson.com/"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/Resume_DaoChiLam.pdf"
+
+# a summary about you
+summary: 'I am obsessed with turning raw data into beneficial and profitable knowledge!
+
+
+Not only it has become my lifestyle, by evaluating my past schedule to create a more balanced life or analyzing spending habits so I can reach my financial targets faster, I also helped organizations and people around me achieve their goals using data!
+
+
+By incorporating my new data management and data analysis methods into a sale strategy, I helped boost a company’s sales by 8%. During my time as a research assistant, I built machine learning models to predict student’s admission rates and identified contributing factors so the school can better assist them.
+
+
+As a result of the obsession, I adopted optimization as my new value and apply it to many works that I do. I strongly believe that it is a powerful weapon that will create positive impacts on many people and businesses.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/chilam27"
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/daochilam/"

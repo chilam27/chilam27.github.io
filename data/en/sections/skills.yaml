@@ -1,0 +1,30 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Programming Languages and Tools
+  summary: "Expertise in Python (pandas, NumPy, scikit-learn, OOP), R (tidyverse, ggplot2), SQL, HTML, CSS, SAS, Apache Spark, Tableau, Microsoft Office, Git."
+
+- name: Data Wrangling
+  summary: "Transform large and complex datasets for more convenient consumption and organization of the data."
+
+- name: Data Modeling
+  summary: "Develop predictive models leveraging advanced statistical modeling, machine learning, and deep learning."
+
+- name: Storytelling
+  summary: Convey complex and technical information through the use of concise writing and clear visualizations."
+
+- name: Curiosity
+  summary: "Continue to learn and find the optimal ways to solve problems."
+
+- name: Team Player
+  summary: "Collaborate with cross-functional teams and effectively present insights and findings."

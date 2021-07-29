@@ -1,0 +1,69 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Jackson
+    url: "https://www.jackson.com/"
+    location: Lasning, MI
+  positions:
+  - designation: Data Science and AI Strategic Support Associate
+    start: June 2021
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: 
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+     - Develop models leveraging advanced statistical modeling, machine learning, and data mining techniques.
+     - Develop AI solutions leveraging Natural Language Processing techniques, text representation techniques, and other AI methodologies.
+     - Identify approaches to model high dimensional sparse data that may require the use of imputation methods.
+     - Apply linear and non-linear approaches, clustering, decision trees, boosting, deep learning, text mining, and other types of machine learning techniques to improve prediction performance.
+     - Analyze data to develop recommendations and strategies.
+     - Train and test computationally intensive models/algorithms.
+     - Utilize data visualization to ensure that data analysis is easily consumable by the business.
+
+- company:
+    name: Michigan State University
+    url: "https://msu.edu/"
+    location: East Lansing, MI
+  positions:
+  - designation: Data Science Research Assistant
+    start: January 2021
+    end:
+    responsibilities:
+    - Collaborate with a Physics department’s professor to identify factors that lead to graduate schools’ admission rates.
+    - Perform data wrangling and exploratory data analysis using pandas and Matplotlib to better illustrate different stories and relationships of variables in the dataset.
+    - Improve university’s assistant to Physics students from the ability to predict admission rates using data classification models (logistic regression, Ridge classifier, Log-F Logistic Regression) with 72.39% accuracy score.
+
+- company:
+    name: Michigan State University
+    url: "https://msu.edu/"
+    location: East Lansing, MI
+  positions:
+  - designation: Statistics Undergraduate Learning Assistant
+    start: January 2021
+    end: May 2021
+    responsibilities:
+    - Strengthen 750 students’ statistical and computational knowledge by customizing interpretation of lecture information that suits the student learning style.
+    - Executed interactive online learning strategies using multimedia resources to increase students’ engagement.
+    - Interpreted course’s R programming and statistical analysis to both technical and non-technical students.
+
+- company:
+    name: Sacombank
+    url: "https://www.sacombank.com.vn/en/Pages/default.aspx"
+    location: Da Nang, Vietnam
+  positions:
+  - designation: Analyst Intern
+    start: May 2019
+    end: July 2019
+    responsibilities:
+    - Analyzed weekly sales from 30 department members to produce reports and presentations to the department’s head.
+    - Formulated Excel spreadsheet algorithms to manage customer database and sales strategies that boosted department sales by 8%.
+    - Trained 30 department members advanced Excel functions and skills to improve their efficiency and productivity.

@@ -1,0 +1,80 @@
+{{ $sectionID := replace (lower .section.name) " " "-"  }}
+{{ if .section.id }}
+{{ $sectionID = .section.id }}
+{{ end }}
+
+<div class="container-fluid anchor pb-5 education-section education-alt" id="{{ $sectionID }}">
+    {{ if not (.section.hideTitle) }}
+    <h1 class="text-center">{{ .section.name }}</h1>
+    {{ end }}
+
+    <div class="container">
+        <table class="education-info-table">
+            <tbody>
+                {{ range .degrees}}
+                <tr>
+                    <td class="icon">
+                        <div class="hline"></div>
+                        <div class="icon-holder">
+                            <i class="fas {{ .icon }}"></i>
+                        </div>
+                    </td>
+                    <td class="line">
+                        <div></div>
+                    </td>
+                    <td class="details">
+                        <div class="degree-info card">
+                            <div class="row">
+                                <div class="col-lg-10 col-md-8">
+                                    {{ if .institution.url }}
+                                        <h5><a href="{{ .institution.url }}" title="{{ .institution.name }}" target="_blank" rel="noopener">{{ .institution.name }}</a></h5>
+                                    {{ else }}
+                                        <h5>{{ .institution.name }}</h5>
+                                    {{ end }}
+                                </div>
+                                <div class="timeframe col-lg-2 col-md-4">{{ .timeframe }}</div>
+                            </div>
+                            <h6>{{ .name }}</h6>
+                            {{ if .publications }}
+                                <div class="publications">
+                                    <h6 class="text-muted">{{i18n "publications"}}</h6>
+                                </div>
+                            {{ end }}
+                            {{ if .takenCourses }}
+                            <div class="taken-courses">
+                                <h6 class="text-muted">{{ i18n "taken_courses" }}</h6>
+                                {{ if gt (len .takenCourses.courses) 2 }}
+                                    <button type="button" class="btn btn-link show-more-btn pt-0 {{ if .takenCourses.showGrades }}ml-1{{ else }}ml-2{{ end }}"
+                                    onclick="toggleCourseVisibility(this);" id="show-more-btn" aria-label="{{ i18n "show_more"}}">{{ i18n "show_more"}}</button>
+                                    <button type="button" class="btn btn-link show-more-btn hidden pt-0 {{ if .takenCourses.showGrades }}ml-1{{ else }}ml-2{{ end }}"
+                                    onclick="toggleCourseVisibility(this);" id="show-less-btn" aria-label="{{ i18n "show_less"}}">{{ i18n "show_less"}}</button>
+                                {{ end }}
+                            </div>
+                            {{ end }}
+                            {{ if .extracurricularActivities }}
+                            <div class="extracurricular-activities">
+                                <h6 class="text-muted">{{ i18n "extracurricular_activities" }}</h6>
+                                <ul>
+                                {{ range .extracurricularActivities }}
+                                    <li>{{ . }}</li>
+                                {{ end }}
+                                </ul>
+                            </div>
+                            {{ end }}
+                        </div>
+                    </td>
+                    <td class="line">
+                        <div></div>
+                    </td>
+                    <td class="icon">
+                        <div class="hline"></div>
+                        <div class="icon-holder">
+                            <i class="fas {{ .icon }}"></i>
+                        </div>
+                    </td>
+                </tr>
+                {{ end }}
+            </tbody>
+        </table>
+    </div>
+</div>

@@ -1,0 +1,41 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Bachelor of Arts, Statistic (minor in Computational Mathematics, Science and Engineering)
+  icon: fa-graduation-cap
+  timeframe: September 2017- May 2021
+  institution:
+    name: Michigan State University
+    url: "https://msu.edu/"
+
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: true
+    courses:
+    - name: Computational Modeling and Data Analysis
+    - name: Probability and Statistic
+    - name: Linear Algebra
+    - name: Introduction to Data Science
+
+  extracurricularActivities: #(optional)
+  - Vietnamese Culture Union - Co-president Internal
+  - Data Science Club - Member
+  - Spartan Statistical Association - Member
+  - Society of Asian Scientists and Engineer - Member
+  - Ultimate Frisbee Club - Member
+
+- name: Data Analytics Professional Certificate
+  icon: fa-code
+  timeframe: June 2021
+  institution:
+    name: Google
+    url: "https://www.credly.com/badges/2a0a8d10-f382-4408-96d3-27691518c708/public_url"

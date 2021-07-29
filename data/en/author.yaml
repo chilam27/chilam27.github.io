@@ -1,0 +1,17 @@
+# some information about you
+name: "Dao Chi Lam"
+nickname: "Chi"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi! My name is"
+
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "lamdaochi27@gmail.com"
+  phone: "(+1) 857-310-9338"
+
+# some summary about what you do
+summary:
+  - I'm a data scientist and a statistician.
+  - Let's create a data story!
+  - I graduated from Michigan State University. Go Green!
+  - I love personal finance, fitness, and fashion.
