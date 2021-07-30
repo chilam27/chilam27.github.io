@@ -317,7 +317,7 @@ Although my first intention was to follow the tutorial by Chris I. and productio
 
 ## Code
 
-This project's codes can be viewed at this GitHub's [repository].(https://github.com/chilam27/Boston_Housing_Prices)
+This project's codes can be viewed at this GitHub's [repository](https://github.com/chilam27/Boston_Housing_Prices).
 
 ## Author
 
