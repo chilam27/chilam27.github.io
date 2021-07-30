@@ -206,6 +206,10 @@ Overall, I believed that I did a very good job of analyzing the HSBC stock and i
 
 If I were to continue this project, I would spend more time developing a stronger trading plan that involves different special candlesticks/ patterns and presented it in the EDA section. It would also be very interesting to compare different models' performances (such as stacked LSTM and a different model where I can have the candlesticks/ patterns as variables instead of only the closing price) to see whether there is any model out there that can beat a deep learning model in predicting stock prices. 
 
+## Code
+
+This project's codes can be viewed at this GitHub's [repository](https://github.com/chilam27/Stock_Price_Prediction).
+
 ## Author
 
 * **Chi Lam**, _student_ at Michigan State University - [chilam27](https://github.com/chilam27)
