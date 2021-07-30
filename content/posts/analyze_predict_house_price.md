@@ -315,6 +315,10 @@ Although my first intention was to follow the tutorial by Chris I. and productio
 {{< img src="/posts/images/analyze_predict_house_price/fig24.png" align="center" title="Production Screenshot">}}
 {{< vs >}}
 
+## Code
+
+This project's codes can be viewed at this GitHub's [repository].(https://github.com/chilam27/Boston_Housing_Prices)
+
 ## Author
 
 * **Chi Lam**, _student_ at Michigan State University - [chilam27](https://github.com/chilam27)
