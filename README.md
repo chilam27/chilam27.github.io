@@ -1,4 +1,4 @@
-# Dao Chi's Data Science Portfolio: [chilam27.github.io](chilam27.github.io)
+# Dao Chi's Data Science Portfolio: [https://chilam27.github.io/](https://chilam27.github.io/)
 
 This repository is where I host my new data science portfolio, where I display all my skills, experiences, education, and completed projects. 
 
