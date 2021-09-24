@@ -1,7 +1,6 @@
 ---
 title: Analyze and Predict House Prices
 date: 2020-07-13
-hero: /images/posts/writing-posts/cover.jpg
 description: Analyze and predict Boston housing prices through Trulia data using regression machine learning models.
 menu:
   sidebar:
