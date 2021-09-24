@@ -15,20 +15,16 @@ experiences:
     url: "https://www.jackson.com/"
     location: Lasning, MI
   positions:
-  - designation: Data Science and AI Strategic Support Associate
+  - designation: Data Science Strategic Support Associate
     start: June 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: 
     # give some points about what was your responsibilities at the company.
     responsibilities:
-     - Develop models leveraging advanced statistical modeling, machine learning, and data mining techniques.
-     - Develop AI solutions leveraging Natural Language Processing techniques, text representation techniques, and other AI methodologies.
-     - Identify approaches to model high dimensional sparse data that may require the use of imputation methods.
-     - Apply linear and non-linear approaches, clustering, decision trees, boosting, deep learning, text mining, and other types of machine learning techniques to improve prediction performance.
-     - Analyze data to develop recommendations and strategies.
-     - Train and test computationally intensive models/algorithms.
-     - Utilize data visualization to ensure that data analysis is easily consumable by the business.
-
+     - Break down complex analysis and ensure reports are easily consumable by the business leaders by creating 3 powerful enterprise-level data visualization tools using Python.
+     - Contribute to a project in a production environment using scripting languages (Python, SQL, and Spark).
+     - Provide a data analytics platform recommendation to the team for future data science and AI task by taking a lead in the proof-of-technology project comparing Azure Databricks with Azure Machine Learning service.
+     
 - company:
     name: Michigan State University
     url: "https://msu.edu/"
@@ -36,11 +32,11 @@ experiences:
   positions:
   - designation: Data Science Research Assistant
     start: January 2021
-    end:
+    end: August 2021
     responsibilities:
-    - Collaborate with a Physics department’s professor to identify factors that lead to graduate schools’ admission rates.
-    - Perform data wrangling and exploratory data analysis using pandas and Matplotlib to better illustrate different stories and relationships of variables in the dataset.
-    - Improve university’s assistant to Physics students from the ability to predict admission rates using data classification models (logistic regression, Ridge classifier, Log-F Logistic Regression) with 72.39% accuracy score.
+    - Predicted admission rates with an 81% accuracy score by developing and tuning statistical models.
+    - Performed data wrangling and exploratory data analysis using pandas and Matplotlib to better create advanced visualizations and illustrate different relationships of variables in the dataset.
+    - Provided the university with recommendations to assist physics students by collaborating with the department’s professors to identify the 5 most influential factors that lead to the school’s admission rate.
 
 - company:
     name: Michigan State University
@@ -51,9 +47,9 @@ experiences:
     start: January 2021
     end: May 2021
     responsibilities:
-    - Strengthen 750 students’ statistical and computational knowledge by customizing interpretation of lecture information that suits the student learning style.
-    - Executed interactive online learning strategies using multimedia resources to increase students’ engagement.
-    - Interpreted course’s R programming and statistical analysis to both technical and non-technical students.
+    - Strengthen 750+ students’ statistical and computational knowledge by customizing interpretations of lecture information to suits students’ learning styles.
+    - Boosted student’ engagements by 20% through planning and incorporating interactive online learning strategies, such as using multimedia resources and creating a coding practice session.
+    - Interpreted course material to technical and non-technical students using visual content and storytelling techniques.
 
 - company:
     name: Sacombank
@@ -64,6 +60,6 @@ experiences:
     start: May 2019
     end: July 2019
     responsibilities:
-    - Analyzed weekly sales from 30 department members to produce reports and presentations to the department’s head.
-    - Formulated Excel spreadsheet algorithms to manage customer database and sales strategies that boosted department sales by 8%.
+    - Analyzed 30+ department members’ weekly sales to produce reports and present them to the department’s head.
+    - Boosted the bank’s telemarketing efficiency by 25% by creating advanced Excel spreadsheet structures to interpret data and collaborating with the marketing team, representing an 8% increase in sales.
     - Trained 30 department members advanced Excel functions and skills to improve their efficiency and productivity.
