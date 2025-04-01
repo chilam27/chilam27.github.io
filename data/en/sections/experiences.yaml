@@ -26,6 +26,21 @@ experiences:
      - Provide a data analytics platform recommendation to the team for future data science and AI task by taking a lead in the proof-of-technology project comparing Azure Databricks with Azure Machine Learning service.
      
 - company:
+    name: Jackson
+    url: "https://www.jackson.com/"
+    location: Lasning, MI
+  positions:
+  - designation: Data Science Strategic Support Associate
+    start: June 2021
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: 
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+     - Break down complex analysis and ensure reports are easily consumable by the business leaders by creating 3 powerful enterprise-level data visualization tools using Python.
+     - Contribute to a project in a production environment using scripting languages (Python, SQL, and Spark).
+     - Provide a data analytics platform recommendation to the team for future data science and AI task by taking a lead in the proof-of-technology project comparing Azure Databricks with Azure Machine Learning service.
+     
+- company:
     name: Michigan State University
     url: "https://msu.edu/"
     location: East Lansing, MI
