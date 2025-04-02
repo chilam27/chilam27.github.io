@@ -1,7 +1,6 @@
 ---
 title: Analyze and Predict House Prices
 date: 2020-07-13
-hero: /images/posts/writing-posts/cover.jpg
 description: Analyze and predict Boston housing prices through Trulia data using regression machine learning models.
 menu:
   sidebar:
@@ -314,6 +313,10 @@ Although my first intention was to follow the tutorial by Chris I. and productio
 {{< img src="/posts/images/analyze_predict_house_price/fig23.png" align="center" title="Production Screenshot">}}
 {{< img src="/posts/images/analyze_predict_house_price/fig24.png" align="center" title="Production Screenshot">}}
 {{< vs >}}
+
+## Code
+
+This project's codes can be viewed at this GitHub's [repository](https://github.com/chilam27/Boston_Housing_Prices).
 
 ## Author
 

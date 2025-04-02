@@ -258,6 +258,10 @@ If I was to continue this project, I would apply some front-end works by product
 {{< img src="/posts/images/improve_product_review_system/fig13.png" align="center" title="Figure 13">}}
 {{< vs >}}
 
+## Code
+
+This project's codes can be viewed at this GitHub's [repository](https://github.com/chilam27/Improve_Product_Review_System).
+
 ## **Update!** (06/10/21)
 
 I had successfully deployed the machine learning model using Heroku and Streamlit! Check out this website for the application: [https://amazon-product-review-star.herokuapp.com/](https://amazon-product-review-star.herokuapp.com/). Also, you can check out my ["Improve_Review_System_Deploy"](https://github.com/chilam27/Improve_Review_Product_System_Deploy) repository for the code and data files.

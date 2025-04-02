@@ -299,6 +299,10 @@ Personally, I feel that I have done a good job on this project. Because my main 
 
 If I was to continue with this project, I would want to try out different numbers of k to compare the different results. Because I could only label 6 clusters, I would want to see what will happen if I reduce the k value to 6. The last thing I would want to do is to figure out what cluster pattern, specifically, will result in a higher team's placement. With the information that I can get from it, I will have a higher chance of guessing whether my favorite team's lineup will make me happy or sad in the next tournament.
 
+## Code
+
+This project's codes can be viewed at this GitHub's [repository](https://github.com/chilam27/PUBG_Player_Role_Analysis).
+
 ## Author
 
 * **Chi Lam**, _student_ at Michigan State University - [chilam27](https://github.com/chilam27)
