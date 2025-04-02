@@ -18,7 +18,7 @@ experiences:
   - designation: Data Science Strategic Support Associate
     start: June 2022
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: 
+    end: August 2024
     # give some points about what was your responsibilities at the company.
     responsibilities:
      - Break down complex analysis and ensure reports are easily consumable by the business leaders by creating 3 powerful enterprise-level data visualization tools using Python.
@@ -73,6 +73,4 @@ experiences:
     start: May 2019
     end: July 2019
     responsibilities:
-    - Analyzed 30+ department members’ weekly sales to produce reports and present them to the department’s head.
-    - Boosted the bank’s telemarketing efficiency by 25% by creating advanced Excel spreadsheet structures to interpret data and collaborating with the marketing team, representing an 8% increase in sales.
-    - Trained 30 department members advanced Excel functions and skills to improve their efficiency and productivity.
+
