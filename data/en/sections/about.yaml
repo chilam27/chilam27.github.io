@@ -8,35 +8,23 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Data Science Strategic Support Associate
+designation: Graduate Research Assistant
 # your company information
 company:
-  name: Jackson
-  url: "https://www.jackson.com/"
+  name: Michigan State University
+  url: "https://msu.edu/"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/Resume_DaoChiLam.pdf"
 
 # a summary about you
-summary: "Inquisitive Data Scientist with experience working with data in both corporate and academic research environments. I help companies, like Sacombank and Jackson National Life, use data to make actionable decisions that result in 30%+ increased workflow efficiency. 
+summary: "Inquisitive Data Scientist with experience working with data in corporate and academic research environments. I help companies, like Sacombank and Jackson National Life, use data to make actionable decisions that result in workflow efficiency. 
 
 
 Technical Skills & Tools - Python, R, SQL, Spark, Tableau, Machine Learning, Exploratory Data Analysis, Jira.
 
 
-Here are a few examples of my work:
-
-
-- Improved the comprehensibility of reports to Jackson’s business executives by 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗱 𝟯 𝗲𝗻𝘁𝗲𝗿𝗽𝗿𝗶𝘀𝗲-𝗹𝗲𝘃𝗲𝗹 𝗱𝗮𝘁𝗮 𝘃𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻 𝘁𝗼𝗼𝗹𝘀 that break down large and complex analyses.
-
-
-- 𝗕𝗼𝗼𝘀𝘁𝗲𝗱 𝗦𝗮𝗰𝗼𝗺𝗯𝗮𝗻𝗸’𝘀 𝘁𝗲𝗹𝗲𝗺𝗮𝗿𝗸𝗲𝘁𝗶𝗻𝗴 𝗲𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝗰𝘆 𝗯𝘆 𝟮𝟱% by creating advanced Excel spreadsheet structures to interpret data and collaborating with the marketing team, representing an 𝟴% 𝗶𝗻𝗰𝗿𝗲𝗮𝘀𝗲 𝗶𝗻 𝘀𝗮𝗹𝗲𝘀.
-
-
-- 𝗜𝗻𝗰𝗿𝗲𝗮𝘀𝗲𝗱 𝘁𝗵𝗲 𝗼𝗻𝗹𝗶𝗻𝗲 𝗼𝗿𝗱𝗲𝗿 𝗽𝗿𝗼𝗰𝗲𝘀𝘀𝗶𝗻𝗴 𝘁𝗶𝗺𝗲 𝗯𝘆 𝟯𝟯% in Shopee Code League Competition by constructing a data model with team members.
-
-
-Interes: fitness (trying out CrossFit), reading (currently reading “The Intelligent Investor”), and playing the guitar.
+Interes: fitness, reading, and playing the guitar.
 
 
 I get excited about opportunities where I am able to leverage big data to discover insights and solve business problems.
