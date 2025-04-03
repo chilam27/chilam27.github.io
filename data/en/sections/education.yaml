@@ -10,6 +10,24 @@ section:
   # hideTitle: true
 
 degrees:
+- name: Master of Science, Data Science
+  icon: fa-graduation-cap
+  timeframe: September 2024- May 2026
+  institution:
+    name: Michigan State University
+    url: "https://msu.edu/"
+
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: true
+    courses:
+    - name: Introduction to MLOps
+    - name: Mathematical Statistics for Data Scientists
+    - name: Data Mining
+    - name: Foundations of Data Science
+    - name: Foundations of Artificial Intelligence
+    - name: Applied Statistical Modeling for Data Scientists
+
 - name: Bachelor of Arts, Statistic (minor in Computational Mathematics, Science and Engineering)
   icon: fa-graduation-cap
   timeframe: September 2017- May 2021
