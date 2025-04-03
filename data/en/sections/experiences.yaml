@@ -34,9 +34,10 @@ experiences:
     start: June 2021
     end: August 2024
     responsibilities:
-     - Break down complex analysis and ensure reports are easily consumable by the business leaders by creating 3 powerful enterprise-level data visualization tools using Python.
-     - Contribute to a project in a production environment using scripting languages (Python, SQL, and Spark).
-     - Provide a data analytics platform recommendation to the team for future data science and AI task by taking a lead in the proof-of-technology project comparing Azure Databricks with Azure Machine Learning service.
+     - Broke down complex analysis and ensured reports were easily consumable by business leaders by creating three powerful enterprise-level data visualization tools using Python.
+     - Contributed and collaborated with experienced data scientists on projects in production environments using scripting languages (Python, SQL, and Spark).
+     - Provided a data analytics platform recommendation to the team for future data science and AI tasks by leading the proof-of-technology project comparing Azure Databricks with Azure Machine Learning service.
+     - Assisted in the development of Generative AI and Large Language Models (LLMs) using a RAG architecture by creating and evaluating vector embedding strategies and evaluating semantic search algorithms.
      
 - company:
     name: Michigan State University
