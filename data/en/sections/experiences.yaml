@@ -18,7 +18,7 @@ experiences:
   - designation: Graduate Research Assistant
     start: October 2024
     # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: 
+    end: August 2024
     # give some points about what was your responsibilities at the company.
     responsibilities:
      - Developed a Microsoft Power Apps application for Federal Project Development and Reporting, streamlining the reporting process for 300+ faculty members and enhancing data collection and analysis for the program director.
@@ -74,6 +74,4 @@ experiences:
     start: May 2019
     end: July 2019
     responsibilities:
-    - Analyzed 30+ department members’ weekly sales to produce reports and present them to the department’s head.
-    - Boosted the bank’s telemarketing efficiency by 25% by creating advanced Excel spreadsheet structures to interpret data and collaborating with the marketing team, representing an 8% increase in sales.
-    - Trained 30 department members advanced Excel functions and skills to improve their efficiency and productivity.
+
